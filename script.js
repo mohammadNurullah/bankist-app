@@ -1,3 +1,11 @@
+/*
+ * Title: Bankist App
+ * Description: This js file has all the js necessary to control the Bankist App
+ * Author: Mohammad Nurullah
+ * Date: 09-09-21
+ *
+ */
+
 'use strict';
 
 /////////////////////////////////////////////////
